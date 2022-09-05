@@ -55,13 +55,14 @@
 ### ❗시작화면
 
 ---
-![시작](/uploads/f1a4553e5c3acad6773c279316548a21/시작.png)
+![시작](https://user-images.githubusercontent.com/109265165/188423696-4b82cd1c-186e-4f0f-bac3-e719b8da8e1e.png)
 ---
 
 ### ❗로그인 화면
 
 ---
-![KakaoTalk_20220807_014659472](/uploads/20942790f3dc331137dede8c6bbb7c41/KakaoTalk_20220807_014659472.png)
+![로그인](https://user-images.githubusercontent.com/109265165/188423675-3b29399f-b633-4d21-b0e0-8d3ca5329830.png)
+
 - 없는 정보로 로그인 시 “로그인 실패”라고 알려주며 다시 선택메뉴로 돌아가는 기능
 
 ---
@@ -69,20 +70,22 @@
 ### ❗회원가입 화면
 
 ---
-![KakaoTalk_20220807_014740912](/uploads/c9a8a8adfdb182387d0d27da0622515a/KakaoTalk_20220807_014740912.png)
+![회원가입](https://user-images.githubusercontent.com/109265165/188423710-af012270-bcea-456d-94ce-d57dbd1b0431.png)
+
 - 회원가입을 통해 user.json 파일에 등록하려는 이름, 아이디, 비밀번호, 이메일을 저장하는 기능
 ---
 
 ### ❗비밀번호 찾기 화면
 
 ---
-![3](/uploads/4261bab06f6ba277bd94671d9b4e6afb/3.png)
+![비밀번호 찾기](https://user-images.githubusercontent.com/109265165/188423686-77a72072-65eb-4bcd-859a-562d2b45948b.png)
+
 ---
 
 ### ❗성공적인 로그인 후 화면
 
 ---
-![1](/uploads/e4f46795fe0d78e7e04ca70f46afcd54/1.png)
+![성공적인 로그인](https://user-images.githubusercontent.com/109265165/188423693-f54e0e12-d658-4e6b-8a42-adbdcf24951b.png)
 - 로그인 후 영상 정보를 볼 것인지 로그아웃을 할 것인지 선택할 수 있는 화면
 
 ---
@@ -90,8 +93,8 @@
 ### ❗영상 목록 화면
 
 ---
-![1](/uploads/4a97f9cce1b99a9f063b3036c14864ac/1.png)
-![2](/uploads/933d3a6b84a8ffc1f3386ac6ceec21b9/2.png)
+![영상목록화면](https://user-images.githubusercontent.com/109265165/188423700-37d988eb-30b3-42e1-b874-c17e09e7ed24.png)
+
 - video.json에 저장되어 있는 8개의 영상목록들을 보여주는 화면
 - 원하는 비디오 번호를 선택하면 해당 비디오의 제목, 운동부위, URL, 리뷰를 보여주는 화면
 
@@ -100,8 +103,8 @@
 ### ❗리뷰 작성 화면
 
 ---
-![1](/uploads/4868b496ede456ec9ea6eac2690e9a16/1.png)
-![2](/uploads/775e4aa208e84cb61234c57d03c2bc3f/2.png)
+![리뷰작성화면](https://user-images.githubusercontent.com/109265165/188423684-bf598dfb-dba8-4c4e-b9cc-45f0a41537c1.png)
+
 - 리뷰를 여러개 작성시 review.json 파일에 저장
 - 해당 비디오의 리뷰를 보여줌
 - 리뷰를 적을 때는 내용만 적으며 로그인한 아이디로 리뷰 작성이 됨
@@ -112,4 +115,4 @@
 ### ❗로그아웃 화면
 
 ---
-![2](/uploads/b898d862e00035afbcc2d5228edaa652/2.png)
+![로그아웃](https://user-images.githubusercontent.com/109265165/188423671-d210db77-db00-4dd4-bb43-cbf44d31ca9f.png)
