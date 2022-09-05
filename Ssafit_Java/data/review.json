@@ -1,0 +1,26 @@
+[
+  {
+    "videoNO": 1,
+    "reviewNo": 1,
+    "name": "박수민",
+    "content": "하하 진짜 매운맛인데요??"
+  },
+  {
+    "videoNO": 2,
+    "reviewNo": 1,
+    "nickName": "박수민",
+    "content": "15분이 마치 15년 같네요..."
+  },
+  {
+    "videoNO": 1,
+    "reviewNo": 2,
+    "name": "이연희",
+    "content": "정말 힘듭니까??"
+  },
+  {
+    "videoNO": 2,
+    "reviewNo": 2,
+    "name": "이연희",
+    "content": "이제 어떻게 운동하는지 알겠어요?"
+  }
+]
